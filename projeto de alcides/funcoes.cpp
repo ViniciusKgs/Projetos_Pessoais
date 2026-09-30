@@ -7,7 +7,7 @@
 #include <fstream> // Manipulação de Arquivos: Permite criar, ler e escrever dados em arquivos salvos no computador (como .txt).
 #include <iomanip> // Formatação de Saída: Sigla para Input/Output Manipulators. Permite formatar a exibição de dados na tela.
 #include <string> // Manipulação de Textos: Adiciona o tipo de dado string, permitindo trabalhar com cadeias de texto de forma simples.
-#include "funcoes.h" // 
+#include "funcoes.h" // oiii
 
 using namespace std;
 /* 
