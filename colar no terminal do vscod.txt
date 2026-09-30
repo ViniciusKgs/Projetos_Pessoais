@@ -1,0 +1,4 @@
+g++ main.cpp funcoes.cpp -o output\batalha.exe ( se não der erro execute o código abaixo no terminal)
+.\output\batalha.exe
+
+    
