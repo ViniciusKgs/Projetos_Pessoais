@@ -60,7 +60,7 @@ int busca_avancada_usuario (Usuario usuarios[], int contador_uso, string criteri
 void buscar_usuarios(Usuario usuarios[], int contador_uso);
 void alterar_usuario (Usuario usuarios[], int contador_uso);
 void remover_usuario(Usuario usuarios[], int &contador_uso);
-void realizar_emprestimo (Emprestimo &emprestimos, int &contador_emprestimo, Usuario usuarios[],int contador_uso);
+void realizar_emprestimo (Emprestimo &emprestimos, int &contador_emprestimo, Usuario usuarios[],int contador_uso,Livro livros[], int contador);
 void listar_emprestimos(Emprestimo emprestimos[], int contador_emprestimo);
 void registrar_devolucao (Emprestimo emprestimos[], int &contador_emprestimo);
 
